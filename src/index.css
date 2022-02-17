@@ -343,7 +343,7 @@
  }
  .checkbox input[type="checkbox"] + span:before {
    position: absolute;
-   top: 50%;
+   top: 60%;
    right: auto;
    bottom: auto;
    left: 50%;
